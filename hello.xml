@@ -1,4 +1,3 @@
 <greeting>
-  Hello from branch GitWork — line A
+  Hello from master — different content (line B)
 </greeting>
-  Branch update: This is branch-specific content.
